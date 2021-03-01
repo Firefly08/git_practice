@@ -1,2 +1,3 @@
-let a = 'Hello';
-console.log(a);
+const a = 'Hello';
+const b = 'World'
+console.log(a + ' ' + b);
