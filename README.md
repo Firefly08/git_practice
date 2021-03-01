@@ -1,4 +1,5 @@
-Hello Git and GitHub
+**Hello Git and GitHub**
+---
 
 ## Table of contents
 * [General info](#general-info)
